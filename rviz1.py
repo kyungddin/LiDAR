@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # ros와 numpy import
+# for commit
 import rospy
 import numpy as np
 
