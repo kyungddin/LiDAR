@@ -42,6 +42,7 @@ first_frame = True
 # max_distance 설정
 max_distance = 5  # 최대 거리 제한 (단위: 미터)
 
+# scan = <ouster.sdk._bindings.client.LidarPacket object at 0x7f84685d24f0>
 # 반복문을 돌며 Scan 시작
 try:
     for scans in source:
